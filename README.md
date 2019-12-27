@@ -7,4 +7,4 @@ It is also possible to perform few advanced techniques like risk modeling, corre
 
 Visit https://drmk.shinyapps.io/BaCAtRS/ for testing evaluation. 
 
-Contact +919848396972 or write to kamakshaiah.m@gmail.com for advanced application or training and consultancy. 
+Contact +919848396972 or write to contact@bse-cs.com for advanced application or training and consultancy. 
